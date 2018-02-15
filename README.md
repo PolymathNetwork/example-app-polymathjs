@@ -1,4 +1,4 @@
-![Polymath](Polymath.png)
+![Polymath](./src/Polymath.png)
 
 [Read the whitepaper](whitepaper.pdf)
 
