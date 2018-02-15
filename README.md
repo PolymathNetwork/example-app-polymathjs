@@ -1,10 +1,11 @@
 ![Polymath](./src/Polymath.png)
 
+# Polymath Example Polymathjs app 
+
 A boilerplate create-react-app example using the polymathjs npm module.
 
 [Read the whitepaper](whitepaper.pdf)
 
-# Polymath Example Polymathjs app 
 
 
 In order to get the example running, clone this repo onto your local machine. 
